@@ -1,0 +1,5 @@
+cd masjidi-lite
+git init && git add . && git commit -m "masjidi-lite"
+git branch -M main
+git remote add origin https://github.com/<حسابك>/masjidi-lite.git
+git push -u origin main
